@@ -1,2 +1,4 @@
-# cnn-redes-neurais-convolucionais-classificacao
-Implementando classificação de imagens com arquitetura CNN
+# CNN - Convolutional Neural Network
+
+Classificação de imagens com arquitetura CNN
+Diego Hartwig - 2024
